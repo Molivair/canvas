@@ -1,27 +1,20 @@
 # 🖌️ Canvas
-A collection of useful files for a new repository's scaffolding.  
-&nbsp;
+A collection of useful files for a new repository's scaffolding.
 
-## 📦 Installation  
+## 📦 Installation
 Follow the steps below to make use of Canvas.
-&nbsp;
 
-1. Clone this repository:  
+1. Clone this repository:
 ```bash
 git clone https://github.com/Molivair/canvas.git
 ```
-&nbsp;
 
-## 🤝 Contributing  
-Contributions and suggestions about how to improve this project are welcome!  
-&nbsp;  
+## 🤝 Contributing
+Contributions and suggestions about how to improve this project are welcome!
 
-## 💚 Support
-If you want to support our work you can do it buying our art.  
+## 💚 Supporting
+If you want to support our work you can do it buying our art.
+- [OpenSea](https://opensea.io/Molivair)
 
-- [OpenSea](https://opensea.io/Molivair)  
-&nbsp;
-
-## 💳 License  
-This repository is licensed under [GPL-3.0 License](https://github.com/Molivair/canvas/blob/main/LICENSE).  
-&nbsp;
+## 💳 Licensing
+This repository is licensed under [GPL-3.0 License](https://github.com/Molivair/canvas/blob/main/LICENSE).
