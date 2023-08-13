@@ -1,4 +1,4 @@
-# Emdees
+# Canvas
 Canvas used as a base template for our collections.
 
 ## Contents
@@ -10,7 +10,7 @@ Canvas used as a base template for our collections.
 - [License](#license)
 
 ## Installation
-Follow the steps below to make use of Emdees.
+Follow the steps below to make use of Canvas.
 
 Clone this repository:
 ```bash
